@@ -102,10 +102,4 @@ and solving real-world problems through technology.
 
 </div>
 
----
-
-<div align="center">
-
-### 💡 "Learning never exhausts the mind—it only builds better solutions."
-
 </div>
