@@ -18,7 +18,7 @@ and solving real-world problems through technology.
 # 💫 About Me
 
 - 🎓 Computer Science Student
-- 💻 Passionate about Full-Stack Web Development
+- 💻 Passionate about Web Development
 - 🎨 UI/UX Designer focused on clean and responsive interfaces
 - 📊 Interested in Data Analytics and Business Intelligence
 - 🚀 Always building projects to improve my skills
