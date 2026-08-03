@@ -1,35 +1,122 @@
-# Hi there! 👋 I'm Lenard
+<div align="center">
 
-🎓 Computer Science student passionate about building practical and user-focused technology.
+# 👋 Hi, I'm Lenard Panganiban
 
-I enjoy developing web applications, designing user interfaces, and working with data analytics.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Web+Developer;UI%2FUX+Designer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-I'm always looking for opportunities to learn new technologies and improve my problem-solving skills.
+<p>
+Passionate about building modern web applications, designing intuitive user experiences,
+and solving real-world problems through technology.
+</p>
 
----
+<img src="https://komarev.com/ghpvc/?username=LenardAndrei&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 💫 About Me
+
+- 🎓 Computer Science Student
+- 💻 Passionate about Full-Stack Web Development
+- 🎨 UI/UX Designer focused on clean and responsive interfaces
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🌱 Currently learning Cybersecurity, Networking, and Cloud Technologies
+- 🚀 Always building projects to improve my skills
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,flask,laravel" />
+
+### Design & Tools
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
+
+---
+
+# 📂 Featured Projects
 
 ### 🌐 Web Development
-Description here...
+
+- Responsive Web Applications
+- Flask Web Systems
+- React Frontend Development
+- UI/UX Design using Figma
 
 ### 📊 Data Analytics
-Description here...
+
+- Power BI Dashboards
+- SQL Data Analysis
+- Excel Data Visualization
+  
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LenardAndrei&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenardAndrei&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=LenardAndrei&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
 
 ---
 
-## 📫 Connect with Me
+# 🌟 Currently Learning
 
-- LinkedIn: https://www.linkedin.com/in/lenard-panganiban-045458397/
-- Portfolio: https://lenard-andrei.vercel.app/
-- Email: andreipanganiban82@gmail.com
+- 🔐 Cybersecurity
+- 🌐 Networking
+- ☁️ Cloud Computing
+- 🤖 Machine Learning
+- 🏗️ Software Architecture
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lenard-panganiban-045458397/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://lenard-andrei.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:andreipanganiban82@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Learning never exhausts the mind—it only builds better solutions."
+
+</div>
