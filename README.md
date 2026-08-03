@@ -10,39 +10,23 @@ I'm always looking for opportunities to learn new technologies and improve my pr
 
 ## 🚀 Tech Stack
 
-### Languages
-- Python
-- JavaScript
-- SQL
-- HTML
-- CSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frameworks
-- Flask
-- React
-- Laravel
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-### UI/UX
-- Figma
-- Responsive Design
-- Wireframing
-- Prototyping
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-### Database
-- MySQL
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 
-### Data Analytics
-- Excel
-- Power BI
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-### Hardware
-- Arduino
-- 3D Printing
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### Tools
-- Git
-- GitHub
-- VS Code
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
