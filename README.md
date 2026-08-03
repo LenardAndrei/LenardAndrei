@@ -84,29 +84,19 @@ and solving real-world problems through technology.
 
 ---
 
-# 🌟 Currently Learning
-
-- 🔐 Cybersecurity
-- 🌐 Networking
-- ☁️ Cloud Computing
-- 🤖 Machine Learning
-- 🏗️ Software Architecture
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lenard-panganiban-045458397/">
+<a href="https://www.linkedin.com/in/lenard-panganiban-045458397/" target="_blank" rel="noopener noreferrer">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://lenard-andrei.vercel.app/">
+<a href="https://lenard-andrei.vercel.app/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:andreipanganiban82@gmail.com">
+<a href="mailto:andreipanganiban82@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
