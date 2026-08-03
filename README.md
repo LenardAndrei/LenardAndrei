@@ -21,7 +21,6 @@ and solving real-world problems through technology.
 - 💻 Passionate about Full-Stack Web Development
 - 🎨 UI/UX Designer focused on clean and responsive interfaces
 - 📊 Interested in Data Analytics and Business Intelligence
-- 🌱 Currently learning Cybersecurity, Networking, and Cloud Technologies
 - 🚀 Always building projects to improve my skills
 
 ---
